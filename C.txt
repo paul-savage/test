@@ -4,3 +4,4 @@ This is line 3 of file C by user2
 This is line 4 of file C by user2
 This is line 5 of file C by user2
 This is line 6 of file C by user2
+I resolved this
