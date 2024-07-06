@@ -1,9 +1,6 @@
-This is line 1 of C by user2
-This is line 2 of C by user2
-This is line 3 of C by user2
-This is line 4 of C by user2
-This is line 5 of C by user2
-This is line 6 of C by user2
-This is line 7 of C by user2
-This is line 8 of C by user2
-This is line 9 of C by user2
+This is line 1 of file C by user2
+This is line 2 of file C by user2
+This is line 3 of file C by user2
+This is line 4 of file C by user2
+This is line 5 of file C by user2
+This is line 6 of file C by user2
